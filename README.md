@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal + UNOCSS
 
+## I installed typography preset check what is it
+
 <br>
 
 <p align="center">
